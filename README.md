@@ -1,4 +1,4 @@
 # Universidad Politecnica Salesiana
-## Seminario-profesiona
+## Seminario-profesional
 Material del curso profesional sobre nodjs + MongoDB
 
