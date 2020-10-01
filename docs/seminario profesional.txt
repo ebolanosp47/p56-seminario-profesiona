@@ -1,0 +1,8 @@
+Universidad Politecnica Salesiana
+
+Seminario Profesional
+
+[1].- git & github - 21/09/2020 
+[2].- git & github - 22/09/2020
+[3].- fundamentos de javascript - 23/09/2020
+[4].- fundamentos de javascript - 24/09/2020
