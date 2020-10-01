@@ -1,4 +1,0 @@
-Universidad Politecnica Salesiana
-
-carrera de ingeieria en sistema
-seminario profesional - nodejs
